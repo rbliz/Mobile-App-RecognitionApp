@@ -1,0 +1,12 @@
+{
+    "name": "Recognition",
+    "short_name": "Recognition",
+    "icons":
+        [
+         {"src":"https://cdn-icons-png.flaticon.com/128/1378/1378577.png"},
+
+        ],
+    "theme_color": " #1B1924",
+    "background_color": "#1B1924",
+    "display": "standalone"
+}
